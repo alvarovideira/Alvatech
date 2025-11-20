@@ -1,1 +1,2 @@
 # Alvatech
+<!doctype html>
